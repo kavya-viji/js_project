@@ -1,9 +1,9 @@
-var a=prompt("enter the a value");
+var a="t";
 if(!a)
 {
-	alert("kavya");
+	alert("k");
 }
 else
 {
-	alert("sathya");
+	alert("s");
 }

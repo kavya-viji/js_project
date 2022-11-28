@@ -1,7 +1,8 @@
-//var a = ["cat","goat","zebra","donkey","buffaloo"];
-//a.unshift("camel")
-//alert (a)
-
-var a = ["cat","goat","zebra","donkey","buffaloo"];
-b = a.unshift("camel")
-alert (b)
+var s1 = parseInt(prompt("Enter the value"));
+var s2 = parseInt(prompt("Enter the value"));
+var y1 = parseInt(prompt("Enter the value"));
+var y2 = parseInt(prompt("Enter the value"));
+var a = s2-s1;
+var b = a * y1;
+var p = s1 - b;
+alert (p);
